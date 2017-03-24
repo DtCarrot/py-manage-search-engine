@@ -1,0 +1,36 @@
+{
+  "links": [{
+    "searchLink": "https://www.google.com.sg/search?q={searchTerms}&source=lnms&tbm=isch",
+      "searchShortcut": "image",
+      "type": "default"
+  }, {
+    "searchLink": "https://www.amazon.com/s/?url=search-alias%3Daps&field-keywords={searchTerms}",
+    "searchShortcut": "amazon",
+    "type": "default"
+  }, {
+    "searchLink": "https://pypi.python.org/pypi?%3Aaction=search&term={searchTerms}",
+    "searchShortcut": "pypi",
+    "type": "developer"
+  }, {
+    "searchLink": "https://www.reddit.com/search?q={searchTerms}",
+    "searchShortcut": "reddit",
+    "type": "default"
+  }, {
+    "searchLink": "https://www.facebook.com/search/top/?q={searchTerms}",
+    "searchShortcut": "facebook",
+    "type": "default"
+  }, {
+    "searchLink": "https://www.youtube.com/results?search_query={searchTerms}",
+    "searchShortcut": "youtube",
+    "type": "default"
+  }
+    "searchLink": "https://github.com/search?q={searchTerms}",
+    "searchShortcut": "github",
+    "type": "developer"
+  }, {
+    "searchLink": "https://www.npmjs.com/search?q={searchTerms}",
+    "searchShortcut": "npm",
+    "type": "developer"
+  }]
+}
+
