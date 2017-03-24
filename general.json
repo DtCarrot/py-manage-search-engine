@@ -23,7 +23,7 @@
     "searchLink": "https://www.youtube.com/results?search_query={searchTerms}",
     "searchShortcut": "youtube",
     "type": "default"
-  }
+  }, {
     "searchLink": "https://github.com/search?q={searchTerms}",
     "searchShortcut": "github",
     "type": "developer"
